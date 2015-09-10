@@ -12,3 +12,6 @@ img{
 h3{
     text-align: center;
 }
+#test{
+    background-image: url("../img/cta.png");
+}

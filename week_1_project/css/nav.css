@@ -1,5 +1,55 @@
+
+body{
+    font-family: sans-serif;
+    max-width: 1000px;
+    box-sizing: border-box;
+
+}
 nav{
-    width: 90%;
-    background-image: url("../img/wooden-menu.png");
-    border: 1px solid blue;
+    height: 93px;
+    background: url("../img/wooden-menu.png") no-repeat center;
+    margin: 0 auto;
+
+
+}
+ul{
+    float: left;
+    margin-left: 50px;
+    margin-top: 26px;
+
+}
+li{
+    letter-spacing: .15em;
+    color: #ffffff;
+    margin-left: 20px;
+    padding: 5px 10px 5px 10px;
+    display:inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+li:hover{
+    background-color: hsla(0, 0%, 69%, 0.55);
+    border-top: 2px solid hsla(300, 0%, 52%, 0.76);
+    border-left: 2px solid hsla(300, 0%, 52%, 0.76);
+    border-bottom:2px solid hsla(0, 0%, 87%, 0.76);
+    border-right:2px solid hsla(0, 0%, 87%, 0.76);
+
+}
+input{
+    width :150px;
+    margin-top: 25px;
+    margin-left: 20px;
+    height: 20px;
+}
+button{
+    float:right;
+    margin-top: 25px;
+    margin-right: 40px;
+    margin-left: -22px;
+    background-image: url("../img/wooden_search.png");
+    width: 34px;
+    height: 28px;
+}
+button:hover{
+    cursor: pointer;
 }
