@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3200e35f-93e4-46a2-a17c-186338cc7afd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week_1_project/css/cta.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week_1_project/cta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week_1_project/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week_1_project/css/nav.css" afterPath="$PROJECT_DIR$/week_1_project/css/nav.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week_1_project/index.html" afterPath="$PROJECT_DIR$/week_1_project/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Web-Standards-Project.iws" />
@@ -27,18 +24,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week_1_project/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.6286127">
+              <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="cta.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week_1_project/cta.html">
+        <entry file="file://$PROJECT_DIR$/week3/cta.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-21.875">
               <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
@@ -48,7 +45,7 @@
         </entry>
       </file>
       <file leaf-file-name="cta.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week_1_project/css/cta.css">
+        <entry file="file://$PROJECT_DIR$/week3/css/cta.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -58,7 +55,7 @@
         </entry>
       </file>
       <file leaf-file-name="indexNav.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week_1_project/indexNav.html">
+        <entry file="file://$PROJECT_DIR$/week2/indexNav.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-1.875">
               <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
@@ -67,8 +64,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="wooden-menu.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2/img/wooden-menu.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="nav.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week_1_project/css/nav.css">
+        <entry file="file://$PROJECT_DIR$/week2/css/nav.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
@@ -77,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reset.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week_1_project/css/reset.css">
+      <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week3/css/reset.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35614526">
+            <state vertical-scroll-proportion="0.0">
               <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
@@ -105,13 +109,16 @@
       <list>
         <option value="$PROJECT_DIR$/indexNav.html" />
         <option value="$PROJECT_DIR$/week_1_project/css/style.css" />
-        <option value="$PROJECT_DIR$/week_1_project/index.html" />
         <option value="$PROJECT_DIR$/week_1_project/img/indexNav.html" />
         <option value="$PROJECT_DIR$/week_1_project/indexNav.html" />
         <option value="$PROJECT_DIR$/week_1_project/css/nav.css" />
         <option value="$PROJECT_DIR$/week_1_project/css/cta.css" />
         <option value="$PROJECT_DIR$/week_1_project/cta.html" />
         <option value="$PROJECT_DIR$/week_1_project/css/reset.css" />
+        <option value="$PROJECT_DIR$/week2/css/nav.css" />
+        <option value="$PROJECT_DIR$/week2/indexNav.html" />
+        <option value="$PROJECT_DIR$/week3/cta.html" />
+        <option value="$PROJECT_DIR$/week_1_project/index.html" />
       </list>
     </option>
   </component>
@@ -255,6 +262,34 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="week3">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Web-Standards-Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="week2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Web-Standards-Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -268,7 +303,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/week_1_project" />
+      <recent name="$PROJECT_DIR$/week3/css" />
+      <recent name="$PROJECT_DIR$/week3" />
+      <recent name="$PROJECT_DIR$/week2/img" />
+      <recent name="$PROJECT_DIR$/week2" />
+      <recent name="$PROJECT_DIR$/week2/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -405,11 +444,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_1_project/img/wooden-menu.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week_1_project/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -418,31 +452,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_1_project/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_1_project/css/cta.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_1_project/indexNav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_1_project/css/nav.css">
+    <entry file="file://$PROJECT_DIR$/week2/css/nav.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
@@ -450,7 +460,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_1_project/cta.html">
+    <entry file="file://$PROJECT_DIR$/week2/indexNav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/img/wooden-menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/cta.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.875">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
@@ -458,10 +481,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week_1_project/css/reset.css">
+    <entry file="file://$PROJECT_DIR$/week3/css/cta.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35614526">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_1_project/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6286127">
+          <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
           <folding />
         </state>
       </provider>
