@@ -1,0 +1,25 @@
+Html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6em;
+
+}
+section{
+    width: 95%;
+    border: solid 1px blue;
+    overflow: auto;
+    margin: 10px auto;
+}
+.top{
+    width: 47%;
+    border: solid 1px red;
+    float: left;
+}
+article{
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin: 0 1.42%;
+
+}
