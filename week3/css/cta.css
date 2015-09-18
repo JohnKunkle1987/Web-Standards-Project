@@ -2,24 +2,63 @@ Html{
     font-size: 62.5%;
 }
 body{
+    font-weight: 300;
+    font-family: sans-serif;
     font-size: 1.6em;
 
 }
+section:nth-of-type(1){
+    width: 95%;
+}
 section{
     width: 95%;
-    border: solid 1px blue;
     overflow: auto;
-    margin: 10px auto;
+    margin: 1rem auto;
 }
-.top{
-    width: 47%;
-    border: solid 1px red;
+.featured{
+    width: calc(50% - .5rem);
     float: left;
+    padding-top: 13rem;
+    height: 42rem;
+    margin-right: 1rem;
 }
+
 article{
-    width: 30%;
+    background-color: #333333;
+    color: #ffffff;
+    width: calc(33.3333% - .3333rem);
     float: left;
     text-align: center;
-    margin: 0 1.42%;
+    height: 19.0rem;
+    padding-top: 12rem;
+    margin: 0 .5rem 1rem 0;
+}
+h1{
+    font-weight: 300;
+    letter-spacing: .4rem;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
+a+p{
+    color: cornflowerblue;
+}
+.buy, .explore{
+    padding: 2rem 2.5rem;
+    margin:2rem;
+    display: inline-block;
+}
 
+article:not(.featured) + article:not(.featured) + article:not(.featured),
+.featured + .featured:nth-of-type(even)  {
+ margin-right: 0;
+}
+.buy{
+    background: -webkit-linear-gradient(left, hsla(259, 67%, 61%, 0.7), hsla(186, 67%, 53%, 0.94)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(left, hsla(259, 67%, 61%, 0.7), hsla(186, 67%, 53%, 0.94)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(left, hsla(259, 67%, 61%, 0.7), hsla(186, 67%, 53%, 0.94));
+}
+.explore{
+    background: -webkit-linear-gradient(left, hsla(347, 74%, 53%, 0.8), hsla(33, 74%, 53%, 0.8)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(left, hsla(347, 74%, 53%, 0.8), hsla(33, 74%, 53%, 0.8)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(left, hsla(347, 74%, 53%, 0.8), hsla(33, 74%, 53%, 0.8));
 }
