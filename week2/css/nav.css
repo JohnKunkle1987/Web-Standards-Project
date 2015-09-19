@@ -6,28 +6,32 @@ body{
 
 }
 nav{
+    box-sizing: border-box;
     height: 93px;
     background: url("../img/wooden-menu.png") no-repeat center;
-    margin: 0 auto;
-
+    position: relative;
 
 }
 ul{
+    box-sizing: border-box;
     float: left;
     margin-left: 50px;
     margin-top: 26px;
 
 }
 li{
+    box-sizing: border-box;
     letter-spacing: .15em;
     color: #ffffff;
-    margin-left: 20px;
-    padding: 5px 10px 5px 10px;
+    margin-top: .3%;
+    margin-left: 36px;
+    padding: 5px 10px;
     display:inline-block;
     text-align: center;
     cursor: pointer;
 }
 li:hover{
+    box-sizing: border-box;
     background-color: hsla(0, 0%, 69%, 0.55);
     border-top: 2px solid hsla(300, 0%, 52%, 0.76);
     border-left: 2px solid hsla(300, 0%, 52%, 0.76);
@@ -36,18 +40,22 @@ li:hover{
 
 }
 input{
+
     width :150px;
     margin-top: 25px;
     margin-left: 20px;
     height: 20px;
 }
-button{
-    float:right;
+.search{
+    position: absolute;
+    bottom: 46%;
+    right: .1%;
     margin-top: 25px;
     margin-right: 40px;
     background-image: url("../img/wooden_search.png");
-    width: 34px;
-    height: 28px;
+    background-size: cover;
+    width: 30px;
+    height: 24px;
 }
 button:hover{
     cursor: pointer;

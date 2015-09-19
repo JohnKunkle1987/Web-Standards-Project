@@ -2,13 +2,9 @@ Html{
     font-size: 62.5%;
 }
 body{
-    font-weight: 300;
     font-family: sans-serif;
     font-size: 1.6em;
 
-}
-section:nth-of-type(1){
-    width: 95%;
 }
 section{
     width: 95%;
