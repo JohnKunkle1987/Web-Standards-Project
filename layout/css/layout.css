@@ -2,9 +2,12 @@ html{
     font-size: 62.5%;
 }
 body{
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family: sans-serif;
     max-width: 1000px;
     box-sizing: border-box;
 
+}
+img{
+    width: 20%;
 }
