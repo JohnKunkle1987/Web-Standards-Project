@@ -46,7 +46,7 @@ input{
     margin-left: 20px;
     height: 20px;
 }
-.search{
+button{
     position: absolute;
     bottom: 46%;
     right: .1%;
