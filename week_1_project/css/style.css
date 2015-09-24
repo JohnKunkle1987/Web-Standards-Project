@@ -1,3 +1,6 @@
+body{
+    background-color: #cccccc;
+}
 h3, p{
     margin: 15px auto;
 }
@@ -10,8 +13,19 @@ img{
     max-width: 100%;
 }
 h3{
+    width: 10%;
+    display: block;
+    border-bottom: 2px solid lightsteelblue;
+    margin: 15px auto;
     text-align: center;
 }
 #test{
     background-image: url("../img/cta.png");
+}
+a{
+    text-align: center;
+    margin: 15px auto;
+    width: 15%;
+    display: block;
+    text-decoration: none;
 }
