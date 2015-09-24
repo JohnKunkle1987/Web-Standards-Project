@@ -12,14 +12,14 @@ nav{
     position: relative;
 
 }
-ul{
+nav ul{
     box-sizing: border-box;
     float: left;
     margin-left: 50px;
     margin-top: 26px;
 
 }
-li{
+nav ul li{
 
     border: solid 2px transparent;
     letter-spacing: .15em;
@@ -31,19 +31,19 @@ li{
     text-align: center;
     cursor: pointer;
 }
-li:hover{
+nav ul li:hover{
     background-color: hsla(0, 0%, 69%, 0.55);
     border: 2px inset hsla(0, 0%, 87%, 0.76);
 
 }
-input{
+nav input{
 
     width :150px;
     margin-top: 25px;
     margin-left: 20px;
     height: 20px;
 }
-button{
+nav button{
     position: absolute;
     bottom: 46%;
     right: -.7%;
@@ -54,6 +54,6 @@ button{
     width: 30px;
     height: 24px;
 }
-button:hover{
+nav button:hover{
     cursor: pointer;
 }
