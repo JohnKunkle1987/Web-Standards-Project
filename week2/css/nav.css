@@ -20,23 +20,20 @@ ul{
 
 }
 li{
-    box-sizing: border-box;
+
+    border: solid 2px transparent;
     letter-spacing: .15em;
     color: #ffffff;
     margin-top: .3%;
-    margin-left: 36px;
+    margin-left: 34px;
     padding: 5px 10px;
     display:inline-block;
     text-align: center;
     cursor: pointer;
 }
 li:hover{
-    box-sizing: border-box;
     background-color: hsla(0, 0%, 69%, 0.55);
-    border-top: 2px solid hsla(300, 0%, 52%, 0.76);
-    border-left: 2px solid hsla(300, 0%, 52%, 0.76);
-    border-bottom:2px solid hsla(0, 0%, 87%, 0.76);
-    border-right:2px solid hsla(0, 0%, 87%, 0.76);
+    border: 2px inset hsla(0, 0%, 87%, 0.76);
 
 }
 input{
@@ -49,7 +46,7 @@ input{
 button{
     position: absolute;
     bottom: 46%;
-    right: .1%;
+    right: -.7%;
     margin-top: 25px;
     margin-right: 40px;
     background-image: url("../img/wooden_search.png");
